@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1657438321000,
+    "timestamp": 1657438658000,
     "version": 20001,
     "name": "NeoApplications",
     "icon": "icon.png",
@@ -23,9 +23,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Droid-ify",
-      "added": 1657438306000,
+      "added": 1657438644000,
       "packageName": "com.looker.droidify",
-      "lastUpdated": 1657438321000
+      "lastUpdated": 1657438658000
     },
     {
       "categories": [
@@ -34,9 +34,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Backup",
-      "added": 1657438318000,
+      "added": 1657438656000,
       "packageName": "com.machiav3lli.backup",
-      "lastUpdated": 1657438318000
+      "lastUpdated": 1657438656000
     },
     {
       "categories": [
@@ -45,9 +45,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Launcher",
-      "added": 1657438320000,
+      "added": 1657438658000,
       "packageName": "com.saggitt.omega.debug",
-      "lastUpdated": 1657438320000
+      "lastUpdated": 1657438658000
     },
     {
       "authorName": "NeoApplications",
@@ -64,9 +64,9 @@
       "sourceCode": "https://github.com/NeoApplications/Neo-Store",
       "translation": "https://hosted.weblate.org/engage/neo-store/",
       "webSite": "https://github.com/NeoApplications",
-      "added": 1657438313000,
+      "added": 1657438651000,
       "packageName": "com.machiav3lli.fdroid",
-      "lastUpdated": 1657438314000,
+      "lastUpdated": 1657438652000,
       "localized": {
         "en-US": {
           "description": "A quick material F-Droid client\n\nFeatures:\n\n* Material F-Droid style\n* No cards or inappropriate animations\n* Fast repository syncing\n* Standard Android components and minimal dependencies\n\nAvailable in:\n\n- Brazillian Portugese\n- English\n- Finnish\n- French\n- German\n- Greek\n- Hungarian\n- Italian\n- Norwegian Bokm\u00e5l\n- Peninsular Arabic\n- Polish\n- Russian\n- Simplified Chinese\n- Spanish\n- Turkish\n- Ukrainian\n\nA direct adaptation/modification of Foxy-Droid\n\nCopylefted libre software, licensed GPLv3+. \\\nUse, study, change, and share; with all.\n",
@@ -84,15 +84,15 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Omega Launcher",
-      "added": 1657438315000,
+      "added": 1657438653000,
       "packageName": "com.saggitt.omega",
-      "lastUpdated": 1657438317000
+      "lastUpdated": 1657438655000
     }
   ],
   "packages": {
     "com.looker.droidify": [
       {
-        "added": 1657438306000,
+        "added": 1657438644000,
         "apkName": "21.31.com.looker.droidify.apk",
         "hash": "3d58fbb47c490e6fcd27e8422842f3fc4ad1ee2029b7411611726eb17c68b247",
         "hashType": "sha256",
@@ -132,7 +132,7 @@
         "versionName": "0.3.1"
       },
       {
-        "added": 1657438306000,
+        "added": 1657438644000,
         "apkName": "21.3.com.looker.droidify.apk",
         "hash": "4c0fc71514d63d1396eb36272fb0d7eaf984ba517746a1c72961d36bd7dac928",
         "hashType": "sha256",
@@ -172,7 +172,7 @@
         "versionName": "0.3"
       },
       {
-        "added": 1657438321000,
+        "added": 1657438658000,
         "apkName": "28.2.com.looker.droidify.apk",
         "hash": "2443cf0a92647285faec1fb171746ff3c828cfd4303d6f1cbf4c0cf715a2cac3",
         "hashType": "sha256",
@@ -208,7 +208,7 @@
         "versionName": "0.2"
       },
       {
-        "added": 1657438320000,
+        "added": 1657438658000,
         "apkName": "28.1.com.looker.droidify.apk",
         "hash": "7cfd216bd656c6df4cc5c97da9423fe328bbb38bd859bb8336359c46b8d3b85c",
         "hashType": "sha256",
@@ -244,7 +244,7 @@
         "versionName": "0.1"
       },
       {
-        "added": 1657438312000,
+        "added": 1657438650000,
         "apkName": "21.42.com.looker.droidify.apk",
         "hash": "3b4d624648cc53fc471b15c5f162861bbfcc56a2558174e5fe005c09b0b96781",
         "hashType": "sha256",
@@ -288,7 +288,7 @@
         "versionName": "0.4.2"
       },
       {
-        "added": 1657438312000,
+        "added": 1657438649000,
         "apkName": "21.41.com.looker.droidify.apk",
         "hash": "657a2d49868641becfd4fc21e39602f23d6706eb57c511d63bc5289a0d88ff1f",
         "hashType": "sha256",
@@ -328,7 +328,7 @@
         "versionName": "0.4.1"
       },
       {
-        "added": 1657438311000,
+        "added": 1657438648000,
         "apkName": "21.40.com.looker.droidify.apk",
         "hash": "39cd007f162504c87770ffde4e3b225da0c01f55cea9350310523bb40cd35fe1",
         "hashType": "sha256",
@@ -368,7 +368,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1657438310000,
+        "added": 1657438647000,
         "apkName": "21.36.com.looker.droidify.apk",
         "hash": "60b8e40bd2b35fd9c75b1b9ca6bf13e83f5f9293f3b5d6478c7ebc9ae0ca68b1",
         "hashType": "sha256",
@@ -408,7 +408,7 @@
         "versionName": "0.3.6"
       },
       {
-        "added": 1657438309000,
+        "added": 1657438647000,
         "apkName": "21.35.com.looker.droidify.apk",
         "hash": "1e05c1b14b6a3e5bdd1090ebb8368fa8b43a3c28b6a092adcc416404601266a2",
         "hashType": "sha256",
@@ -448,7 +448,7 @@
         "versionName": "0.3.5"
       },
       {
-        "added": 1657438309000,
+        "added": 1657438646000,
         "apkName": "21.34.com.looker.droidify.apk",
         "hash": "e3f44da363be1b3e293426b24a4dfe08c0e921380c5bc4a33643e6f3286b2312",
         "hashType": "sha256",
@@ -488,7 +488,7 @@
         "versionName": "0.3.4"
       },
       {
-        "added": 1657438308000,
+        "added": 1657438645000,
         "apkName": "21.33.com.looker.droidify.apk",
         "hash": "9bec6c11073c74f8b400a8431cd7373ac15b67e20414b8a0496a1c26ecdeb2f7",
         "hashType": "sha256",
@@ -528,7 +528,7 @@
         "versionName": "0.3.3"
       },
       {
-        "added": 1657438307000,
+        "added": 1657438645000,
         "apkName": "21.32.com.looker.droidify.apk",
         "hash": "a1d9461b36f2c5a6422e67efdbf41c9f7dedd6a3180b7f1628a6d42602ba31c6",
         "hashType": "sha256",
@@ -570,7 +570,7 @@
     ],
     "com.machiav3lli.backup": [
       {
-        "added": 1657438318000,
+        "added": 1657438656000,
         "apkName": "26.8016.com.machiav3lli.backup.apk",
         "hash": "2b7802ea0ebecde703c159cee257c8c13ba2a19135fa30543395412e7035533c",
         "hashType": "sha256",
@@ -684,7 +684,7 @@
     ],
     "com.machiav3lli.fdroid": [
       {
-        "added": 1657438314000,
+        "added": 1657438652000,
         "apkName": "23.911.com.machiav3lli.fdroid.apk",
         "hash": "d2f1ca4ea8b634969e27b9ab76f0e98d9f11b522c49f06b6d597956541026e27",
         "hashType": "sha256",
@@ -744,7 +744,7 @@
         "versionName": "0.9.1"
       },
       {
-        "added": 1657438313000,
+        "added": 1657438651000,
         "apkName": "23.909.com.machiav3lli.fdroid.apk",
         "hash": "7b9685fc563a2e49dbcbb1c494078d8bc5bd5786abb17f86312716d45b4fbb49",
         "hashType": "sha256",
@@ -806,7 +806,7 @@
     ],
     "com.saggitt.omega": [
       {
-        "added": 1657438317000,
+        "added": 1657438655000,
         "apkName": "26.280.com.saggitt.omega.apk",
         "hash": "a2a6a30931dbc0669031abb77d39dd0ec2ad28b9c1a3c780fc3b063e497fe605",
         "hashType": "sha256",
@@ -1027,7 +1027,7 @@
         "versionName": "0.8.1"
       },
       {
-        "added": 1657438316000,
+        "added": 1657438654000,
         "apkName": "26.168.com.saggitt.omega.apk",
         "hash": "369c2dcaf2459504634f213f7d849c07ef07b8a1cab2a17b211aa14e2a298c26",
         "hashType": "sha256",
@@ -1244,7 +1244,7 @@
         "versionName": "0.8.0"
       },
       {
-        "added": 1657438315000,
+        "added": 1657438653000,
         "apkName": "25.118.com.saggitt.omega.apk",
         "hash": "0804015270e0abdc6d85099b159c86b7bb20f3ebbabf28416d4970c8c626a492",
         "hashType": "sha256",
@@ -1426,7 +1426,7 @@
     ],
     "com.saggitt.omega.debug": [
       {
-        "added": 1657438320000,
+        "added": 1657438658000,
         "apkName": "26.920.com.saggitt.omega.debug.apk",
         "hash": "67613bf47fd99d8dd85129d44c1755799910a44c0512fa0aa5b8f4ad7077c365",
         "hashType": "sha256",
