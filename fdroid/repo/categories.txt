@@ -1,1 +1,5 @@
+F-Droid
+Neo Applications
+Neo Store
+System
 repository
