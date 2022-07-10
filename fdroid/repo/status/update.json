@@ -11,11 +11,12 @@
     "--verbose"
   ],
   "disabled": [],
-  "endTimestamp": 1657437593357,
+  "endTimestamp": 1657438324615,
   "failedBuilds": {},
   "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
   "keytool": "/usr/lib/jvm/default-java/bin/keytool",
   "needsUpdate": [
+    "com.looker.droidify",
     "com.machiav3lli.backup",
     "com.machiav3lli.fdroid",
     "com.saggitt.omega.debug",
@@ -23,6 +24,7 @@
     "org.telegram.messenger.web"
   ],
   "noPackages": [
+    "com.looker.droidify",
     "com.machiav3lli.backup",
     "com.machiav3lli.fdroid",
     "com.saggitt.omega.debug",
@@ -30,12 +32,13 @@
     "org.telegram.messenger.web"
   ],
   "noUpdateCheck": [
+    "com.looker.droidify",
     "com.machiav3lli.backup",
     "com.machiav3lli.fdroid",
     "com.saggitt.omega.debug",
     "com.saggitt.omega",
     "org.telegram.messenger.web"
   ],
-  "startTimestamp": 1657448370000,
+  "startTimestamp": 1657449105000,
   "subcommand": "update"
 }
