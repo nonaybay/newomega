@@ -1,13 +1,14 @@
 {
   "repo": {
-    "timestamp": 1657417575000,
+    "timestamp": 1657418213000,
     "version": 20001,
     "name": "NeoApplications",
     "icon": "icon.png",
     "address": "https://github.com/nonaybay/NeoApplicationsRepository",
     "description": "There is no descriptions",
     "mirrors": [
-      "https://raw.githubusercontent.com/nonaybay/NeoApplicationsRepository/master/fdroid/repo"
+      "https://raw.githubusercontent.com/nonaybay/NeoApplicationsRepository/master/fdroid/repo",
+      "https://raw.githubusercontent.com/nonaybay/newomega/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -22,9 +23,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Backup",
-      "added": 1657417560000,
+      "added": 1657418201000,
       "packageName": "com.machiav3lli.backup",
-      "lastUpdated": 1657417560000
+      "lastUpdated": 1657418201000
     },
     {
       "categories": [
@@ -33,9 +34,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Launcher",
-      "added": 1657417567000,
+      "added": 1657418207000,
       "packageName": "com.saggitt.omega.debug",
-      "lastUpdated": 1657417571000
+      "lastUpdated": 1657418210000
     },
     {
       "categories": [
@@ -44,9 +45,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Store",
-      "added": 1657417561000,
+      "added": 1657418202000,
       "packageName": "com.machiav3lli.fdroid",
-      "lastUpdated": 1657417561000
+      "lastUpdated": 1657418202000
     },
     {
       "categories": [
@@ -55,9 +56,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Omega Launcher",
-      "added": 1657417562000,
+      "added": 1657418203000,
       "packageName": "com.saggitt.omega",
-      "lastUpdated": 1657417565000
+      "lastUpdated": 1657418205000
     },
     {
       "categories": [
@@ -66,15 +67,15 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Telegram",
-      "added": 1657417575000,
+      "added": 1657418213000,
       "packageName": "org.telegram.messenger.web",
-      "lastUpdated": 1657417575000
+      "lastUpdated": 1657418213000
     }
   ],
   "packages": {
     "com.machiav3lli.backup": [
       {
-        "added": 1657417560000,
+        "added": 1657418201000,
         "apkName": "com.machiav3lli.backup.8016.26.709e756500a8ba96a032cf38fd47ef4ab1b79420.apk",
         "hash": "2b7802ea0ebecde703c159cee257c8c13ba2a19135fa30543395412e7035533c",
         "hashType": "sha256",
@@ -188,7 +189,7 @@
     ],
     "com.machiav3lli.fdroid": [
       {
-        "added": 1657417561000,
+        "added": 1657418202000,
         "apkName": "com.machiav3lli.fdroid.911.23.c3e69b8cda600d097ba7d604bc6e0868cf401f4c.apk",
         "hash": "d2f1ca4ea8b634969e27b9ab76f0e98d9f11b522c49f06b6d597956541026e27",
         "hashType": "sha256",
@@ -250,7 +251,7 @@
     ],
     "com.saggitt.omega": [
       {
-        "added": 1657417565000,
+        "added": 1657418205000,
         "apkName": "com.saggitt.omega.280.26.b6687ed17da4081c62591bb89e7102594098cb6e.apk",
         "hash": "a2a6a30931dbc0669031abb77d39dd0ec2ad28b9c1a3c780fc3b063e497fe605",
         "hashType": "sha256",
@@ -471,7 +472,7 @@
         "versionName": "0.8.1"
       },
       {
-        "added": 1657417564000,
+        "added": 1657418204000,
         "apkName": "com.saggitt.omega.168.26.49d8372561b9acc9c1646f6944a60d9194b699e0.apk",
         "hash": "369c2dcaf2459504634f213f7d849c07ef07b8a1cab2a17b211aa14e2a298c26",
         "hashType": "sha256",
@@ -688,7 +689,7 @@
         "versionName": "0.8.0"
       },
       {
-        "added": 1657417562000,
+        "added": 1657418203000,
         "apkName": "com.saggitt.omega.118.25.6f15e8842736b891e1d2b3ed5ab4e8098aab70c6.apk",
         "hash": "0804015270e0abdc6d85099b159c86b7bb20f3ebbabf28416d4970c8c626a492",
         "hashType": "sha256",
@@ -870,7 +871,7 @@
     ],
     "com.saggitt.omega.debug": [
       {
-        "added": 1657417567000,
+        "added": 1657418207000,
         "apkName": "com.saggitt.omega.debug.920.26.428378fd3ce641636c74d9d022bc08a3813d4dce.apk",
         "hash": "3edd92c77a8ec58feb31cf2ebf099558b0b643c627e0a8773a52df61cf929334",
         "hashType": "sha256",
@@ -1104,7 +1105,7 @@
         "versionName": "0.9.0-beta2"
       },
       {
-        "added": 1657417571000,
+        "added": 1657418210000,
         "apkName": "com.saggitt.omega.debug.920.26.f6fffdb935fb3e229381e585d13e4e1fd0d02788.apk",
         "hash": "67613bf47fd99d8dd85129d44c1755799910a44c0512fa0aa5b8f4ad7077c365",
         "hashType": "sha256",
@@ -1338,7 +1339,7 @@
         "versionName": "0.9.0-beta2"
       },
       {
-        "added": 1657417569000,
+        "added": 1657418208000,
         "apkName": "com.saggitt.omega.debug.920.26.49ad30ba0be92a6d450b8977063a32eb5aae40c5.apk",
         "hash": "df0ba58953c3d5ea1ba4430c7a2a19e1318ee11a895cae865329bc3f214d8d08",
         "hashType": "sha256",
@@ -1574,7 +1575,7 @@
     ],
     "org.telegram.messenger.web": [
       {
-        "added": 1657417575000,
+        "added": 1657418213000,
         "apkName": "org.telegram.messenger.web.27219.16.493d8d82a0f3da6b1e7289895d1b55eccc510699.apk",
         "hash": "337bff6ca35f89fbacd1ed158ceb48091e7492bf73e9420c49fd2a84a0a64c58",
         "hashType": "sha256",
