@@ -1,0 +1,1 @@
+{"repo": {"timestamp": 1667880377000, "version": 20001, "name": "Neo Applications Suite", "icon": "icon.png", "address": "https://github.com/nonaybay/newomega", "description": "NeoApplications repository", "mirrors": ["https://raw.githubusercontent.com/nonaybay/newomega/master/fdroid/repo"]}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
