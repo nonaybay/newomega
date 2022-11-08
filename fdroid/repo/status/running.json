@@ -2,8 +2,8 @@
   "/etc/issue.net": "Kali GNU/Linux Rolling",
   "commandLine": [
     "/usr/bin/fdroid update",
-    "-c"
+    "-v"
   ],
-  "startTimestamp": 1667891177000,
+  "startTimestamp": 1667891486000,
   "subcommand": "update"
 }
